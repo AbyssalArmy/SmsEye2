@@ -71,13 +71,6 @@ change welcome page images by adding your image to welcomeImages folder
   <img src="/Preview/Frame 81.png" width="20%" />
 </p>
 
-change welcome page images by adding your image to welcomeImages folder
-
-<p float="left">
-  <img src="/Preview/Frame 31.png" width="20%" />
-  <img src="/Preview/Frame 81.png" width="20%" />
-</p>
-
 - if you want to disable welcome page, leave title.txt file empty
 
 ### Build app
