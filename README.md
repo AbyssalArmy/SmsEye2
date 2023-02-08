@@ -65,8 +65,8 @@ change welcome page text views by editing text files that located on welcomeText
 </p>
 
 <p float="left">
-  <img src="/Preview/Frame 61.png" width="20%" />
   <img src="/Preview/Frame 51.png" width="20%" />
+  <img src="/Preview/Frame 61.png" width="20%" />
 </p>
 
 change welcome page images by adding your image to welcomeImages folder
