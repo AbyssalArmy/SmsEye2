@@ -1,5 +1,5 @@
 # Sms Eye 2
-<img src="/Preview/SmsEye2Preview.png" width="100%" />
+<img src="/Preview/SmsEye2Banner.png" width="100%" />
 
 #### This software is made for educational purposes only !
 
